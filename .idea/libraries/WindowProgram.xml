@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="WindowProgram">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/WindowProgram.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
